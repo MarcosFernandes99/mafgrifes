@@ -2,8 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+@import '@fontsource/roboto/300.css';
+@import '@fontsource/roboto/400.css';
+@import '@fontsource/roboto/500.css';
+@import '@fontsource/roboto/700.css';
+
 * {
   margin: 0;
   border: 0;
   box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+  background-image: linear-gradient(to right, #000000, #363535);
 }
