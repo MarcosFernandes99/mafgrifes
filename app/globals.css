@@ -14,6 +14,6 @@
 }
 
 body {
-  background-color: #000000;
-  background-image: linear-gradient(to right, #000000, #363535);
+  background-image: url("../public/oldblack.jpg");
+  background-size: 1600px 900px;
 }
